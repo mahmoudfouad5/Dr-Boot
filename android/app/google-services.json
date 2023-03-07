@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228749006957",
+    "project_id": "drboot-30570",
+    "storage_bucket": "drboot-30570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228749006957:android:6e6a95f68ddf46fc154764",
+        "android_client_info": {
+          "package_name": "com.example.drboot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228749006957-97cv2cjr8afr54825ork1lgtpkpr6up0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvY1ZK4VuiGEFWjM97Qazlfu9SqoHnqnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228749006957-97cv2cjr8afr54825ork1lgtpkpr6up0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
